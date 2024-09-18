@@ -1,0 +1,28 @@
+turner2023contextaware:
+  type: article
+  title: A Context-Aware Cutting Plane Selection Algorithm for Mixed-Integer Programming
+  author:
+  - Turner, Mark
+  - Berthold, Timo
+  - Besançon, Mathieu
+  date: 2023
+  serial-number:
+    arxiv: '2307.07322'
+  parent:
+    type: proceedings
+    title: Operations Research Proceedings
+mexi2023probabilistic:
+  type: article
+  title: Probabilistic Lookahead Strong Branching via a Stochastic Abstract Branching Model
+  author:
+  - Mexi, Gioni
+  - Shamsi, Somayeh
+  - Besançon, Mathieu
+  - Le Bodic, Pierre
+  date: 2024
+  serial-number:
+    arxiv: '2312.07041'
+  parent:
+    type: proceedings
+    title: International Conference on Integration of Constraint Programming, Artificial Intelligence, and Operations Research
+

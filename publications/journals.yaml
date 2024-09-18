@@ -1,0 +1,13 @@
+carderera2024simple:
+  type: article
+  title: Scalable {F}rank–{W}olfe on Generalized Self-Concordant Functions via Simple Steps
+  author:
+  - Carderera, Alejandro
+  - Besançon, Mathieu
+  - Pokutta, Sebastian
+  date: 2024
+  parent:
+    type: periodical
+    title: SIAM Journal on Optimization
+    publisher: SIAM
+

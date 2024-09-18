@@ -1,0 +1,19 @@
+[phd]
+title = "Double Ph.D. Program"
+institution = "Polytechnique Montréal, Centrale Lille"
+date = "September 2017 - December 2020"
+program = "Ph.D. in Applied Mathematics and Computer Science."
+description = "Title: A fancy thesis on hard problems. Advisors: Prof A, Prof B"
+
+[msc]
+title = "Master's Thesis"
+institution = "OtherUniversity"
+date = "February - July 2016"
+location = "Karlsruhe, Germany"
+program = "A Carefully Chosen Topic"
+
+[engdegree]
+title = "Joint Bachelor and Master's of Science"
+institution = "Université de Technologie de Compiègne"
+date = "September 2011 - August 2016"
+program = "Major in Process Engineering, minor in Mathematical Modelling"

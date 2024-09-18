@@ -1,0 +1,14 @@
+[benderstalk]
+month = 7
+year = 2024
+title = "Introduction to Benders' Decomposition and Applications"
+type = "Seminar"
+event = "LIG laboratory, Grenoble"
+
+[talk1]
+month = 6
+year = 2024
+title = "Better Strong Branching Usage with a Stochastic Branching Model"
+type = "Invited Full Talk"
+event = "MIP Workshop 2024"
+highlight = true

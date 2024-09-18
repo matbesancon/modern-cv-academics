@@ -1,0 +1,19 @@
+[[masters]]
+lastname = "XYZ"
+firstname = "ABC"
+startmonth = 12
+startyear = 2022
+endmonth = 5
+endyear = 2023
+topic = "Solving hard problems with nice methods, a polyhedral approach"
+institution = "Big Univ"
+program = "Mathematics"
+coadvisor = "BigProf"
+
+[[phd]]
+lastname = "Candidate"
+firstname = "FirstName"
+startmonth = 7
+startyear = 2023
+institution = "BigSchool"
+coadvisor = "BigProf"

@@ -1,0 +1,23 @@
+[crpolaris]
+title = "Chargé de Recherche - Associate Researcher"
+institution = "Inria, Grenoble Alpes University"
+description = "Associate Researcher, POLARIS team, Grenoble Computer Science Laboratory."
+date = "January 2024 - today"
+location = "Grenoble, France"
+fulltime = true
+
+[postdoc]
+title = "Postdoctoral Researcher"
+institution = "Zuse Institute Berlin"
+description = "Mathematical Optimization Department."
+date = "January 2021 - December 2023"
+location = "Berlin, Germany"
+fulltime = true
+
+[indusjob]
+title = "My Former Position in Industry"
+institution = "BigCorp"
+description = "Pre-PhD years in Industry."
+date = "August 2016 - September 2017"
+location = "The Island City, France"
+fulltime = true
